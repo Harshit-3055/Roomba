@@ -1,6 +1,6 @@
 # Project Title
 
-Arduino-Based Automatic Vacuum Cleaner (KOOMBA)
+Arduino-Based Automatic Vacuum Cleaner (ROOMBA)
 
 ## Introduction
 
